@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  gap: 30px;
+}
+.label {
+  border: 1px solid;
+
+  cursor: pointer;
+  padding: 10px 20px;
+}

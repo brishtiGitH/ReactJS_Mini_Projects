@@ -1,0 +1,15 @@
+.accordionCard {
+  /* border: 1px solid; */
+  background-color: palevioletred;
+  cursor: pointer;
+  /* color: white; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+.contain {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  border: 1px solid;
+  margin: 0 auto;
+  /* height: 700px; */
+}
